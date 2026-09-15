@@ -13,7 +13,7 @@ Or just use any gamepad
 
 
 ### Install and run
-You can download compiled game from the [itch.io](https://mr152here.itch.io/nebulon-monsters) or from the github [releases](https://github.com/mr152here/Nebulon-Monsters/releases). For Linux you will need libraries libSDL2 and libSDL2_mixer from your package manager.
+You can download compiled game from the [itch.io](https://mr152here.itch.io/nebulon-monsters) or from the github [releases](https://github.com/mr152here/Nebulon-Monsters/releases). For Linux build you will need libraries libSDL2 and libSDL2_mixer in your system from your package manager.
 
 ```
 cd nebulons
