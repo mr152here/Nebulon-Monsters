@@ -1,0 +1,21 @@
+[package]
+name = "NebulonMonsters"
+version = "0.1.6"
+edition = "2024"
+authors = ["Miso Kopera"]
+description = "Arcade game inspired by Space Invaders"
+
+[dependencies]
+gl = "0.14"
+glam = "0.30"
+serde = {version="1.0", features=["derive"]}
+toml = "0.9"
+
+[dependencies.sdl2]
+version = "0.38"
+features = ["mixer"]
+
+[dependencies.image]
+version = "0.25"
+default-features = false
+features = ["png"]
